@@ -1,0 +1,5 @@
+[build]
+command = "npm run buildnew"
+publish = "build"
+[dev]
+publish = "src"
