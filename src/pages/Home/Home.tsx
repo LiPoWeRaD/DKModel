@@ -14,7 +14,7 @@ function Home() {
   
   return (
     <>
-      <main className='container relative h-[12550px] sm:h-[22320px] lg:h-[25700px] mb-4 mx-auto'>
+      <main className='container relative h-[19750px] sm:h-[22320px] lg:h-[25700px] mb-4 mx-auto'>
       {/* <main className='container relative flex flex-col mb-4 mx-auto h-screen'> */}
         <div className='flex flex-col justify-between items-center'>
           <img id='poster' className='relative mb-16 object-cover' src={one} alt="" />
