@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom"
-import footer from '../../assets/baner/119.webp';
+// import footer from '../../assets/baner/119.webp';
 
 const Footer = () => {
     return (

@@ -2,7 +2,7 @@ import React from 'react';
 import one from '../../assets/baner/1.webp';
 
 import ImageCard2 from '../../ul/ux/imageCard/imageCard2y';
-import ImageCard1 from '../../ul/ux/imageCard/imageCard1';
+// import ImageCard1 from '../../ul/ux/imageCard/imageCard1';
 
 const imagesContext = (require as any).context('../../assets/images', true, /\.(webp|jpg|png)$/);
 
