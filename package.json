@@ -25,8 +25,7 @@
   "scripts": {
     "start": "netlify dev --port 3001",
     "startnew": "react-scripts start",
-    "build": "mkdir -p dist && cp -R src/* dist/",
-    "buildnew": "react-scripts build",
+    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
