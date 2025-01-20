@@ -4,7 +4,7 @@ import footer from '../../assets/baner/119.webp';
 const Footer = () => {
     return (
         <>
-            <footer className='flex flex-col my-8 justify-center items-center'>
+            <footer className='relative flex flex-col my-8 justify-center items-center'>
                 {/* <img id='poster' className='relative object-cover' src={footer} alt="" /> */}
                 <div className="flex gap-y-4 flex-col justify-center items-center text-center">
                     <ul className='flex gap-x-2 lg:gap-x-24 text-xl'>
